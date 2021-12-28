@@ -4,7 +4,7 @@
             "product": {
                 "productmodel": {
                     "productname": "",
-                    "productid": "34343434",
+                    "productid": "",
                     "qtyperunit": "",
                     "unitprice": "",
                     "unitinstock": "",
@@ -12,8 +12,8 @@
                     "categoryid": ""
                 },
                 "categorymodel": {
-                    "categoryid": "32",
-                    "categoryname": "x"
+                    "categoryid": "",
+                    "categoryname": ""
                 }
             }
         }
