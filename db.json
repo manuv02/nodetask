@@ -1,0 +1,21 @@
+{
+    "products": [
+        {
+            "product": {
+                "productmodel": {
+                    "productname": "",
+                    "productid": "34343434",
+                    "qtyperunit": "",
+                    "unitprice": "",
+                    "unitinstock": "",
+                    "discontinued": true,
+                    "categoryid": ""
+                },
+                "categorymodel": {
+                    "categoryid": "32",
+                    "categoryname": "x"
+                }
+            }
+        }
+    ]
+}
